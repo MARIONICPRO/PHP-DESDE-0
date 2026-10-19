@@ -11,6 +11,6 @@ if($a > $b){// si se cumple se mostrara esto
     echo "la variable $b es mayor que la variable $a  ";
 
 }else{//si ninguna de las anteriores cumple saldra esta
-    cho "la variable $b es igual a la variable $a  ";
+    echo "la variable $b es igual a la variable $a  ";
 }
 ?>

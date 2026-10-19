@@ -27,7 +27,7 @@ while ($i <= $exp) {
     $i++;
 }
 
-echo "el valor de $base elevado ala $exp es : $resultado "
+echo "el valor de $base elevado ala $exp es : $resultado ";
 
 //FOR Y FOREACH
 for ($i=0; $i < $exp; $i++) { 

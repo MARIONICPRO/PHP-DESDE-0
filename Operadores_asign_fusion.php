@@ -21,16 +21,16 @@ $c = 10;
 $d = 5;
 //suma
 $c = $c + $d;//mostrara 15
-$c += $d //mostrara 15
+$c += $d; //mostrara 15
 //resta
 $c = $c - $d;//mostrara 5
-$c -= $d //mostrara 5
+$c -= $d; //mostrara 5
 //multiplicacion
 $c = $c * $d;//mostrara 50
-$c *= $d //mostrara 50
+$c *= $d; //mostrara 50
 //DIVISION
 $c = $c / $d;//mostrara 2
-$c /= $d //mostrara 2
+$c /= $d; //mostrara 2
 //Modulo
 $c = $c % $d;//mostrara 0
 $c %= $d //mostrara 0

@@ -14,6 +14,6 @@ $oracion4 = "Hola mi nombres es: 'victor";
 //escapar caracteres se usa \
 $oracion5 = "hola mundo mi nombre es 'victor' y tengo \"29\" años";
 //datos bolean
-$bolean 1 = true; // 1
-$bolean 2 = false; // 0
+$bolean1 = true; // 1
+$bolean2 = false; // 0
 ?>
